@@ -223,3 +223,6 @@
 [submodule "minetest-snippets"]
 	path = minetest-snippets
 	url = https://gitlab.com/luk3yx/minetest-snippets.git
+[submodule "3d_armor"]
+	path = 3d_armor
+	url = https://github.com/minetest-mods/3d_armor.git
